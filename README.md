@@ -1,1 +1,1 @@
-# Artonus
+# artonus python developer
