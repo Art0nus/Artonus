@@ -1,1 +1,0 @@
-# artonus python developer
